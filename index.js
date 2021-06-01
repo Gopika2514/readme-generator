@@ -29,7 +29,7 @@ const questions = [
     },
     {
         type :'input',
-        name :'installtion',
+        name :'installation',
         message:"How do you install?"
     },
     {
@@ -50,8 +50,19 @@ const questions = [
     {
         type: 'list',
         name: 'license',
-        message: "What license## are you using ?",
-        choices: ['MIT','APACHE','ABC','EFG']
+        message: "What license are you using ?",
+        choices: ['MIT','APACHE','ABC','EFG','No-license']
+    },
+    {
+        type :'input',
+        name :'run',
+        message:"How do you run your application?"
+
+    },
+    {
+        type :'input',
+        name :'demo',
+        message:"How is your application demo link?"
     }
 ];
 

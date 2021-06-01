@@ -1,35 +1,39 @@
 
-  # s
+  # 
+  ![](https://img.shields.io/badge/License-MIT-red)
   
   ## GitHub username  d
   
-  ## Email  g
+  ## Email  s
   
   ## Table of Content
   
-  * Description 
-  * Installation
-  * Usage 
-  * Contribution
-  * Test 
-  * License 
+  * [Description](#Description) 
+  * [Installation](#Installation)
+  * [Usage](#Usage) 
+  * [Contribution](#Contribution)
+  * [Test](#Test) 
+ * [License](#license);
+  
   
   ## Description 
-  h
+  s
   
-  ## Installation undefined
+  ## Installation s
   
-  ## Usage c
+  ## Usage s
   
-  ## Contribution d
+  ## Contribution s
   
-  ## Test b
+  ## Test s
   
-  ## License MIT
+  ## License
+    
+    This project is under the license MIT;
   
   
   
   ## How to run
-    -npm i 
+    f
   ## Application Functionality Demo
-  [Demo link]
+  [Demo link](f)
