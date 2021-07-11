@@ -1,10 +1,12 @@
 
-  # 
+  # readme generator
   ![](https://img.shields.io/badge/License-MIT-red)
   
-  ## GitHub username  d
+  ## GitHub username  
+  gopika2514
   
-  ## Email  s
+  ## Email  
+  gopipatel2514@gmail.com
   
   ## Table of Content
   
@@ -17,15 +19,19 @@
   
   
   ## Description 
-  s
+  i created readme generator 
   
-  ## Installation s
+  ## Installation 
+  clone to  desktop and insure to install inquirer
   
-  ## Usage s
+  ## Usage 
+  generate a readme for a project
   
-  ## Contribution s
+  ## Contribution 
+  readme generator
   
-  ## Test s
+  ## Test 
+  n/a
   
   ## License
     
@@ -34,6 +40,8 @@
   
   
   ## How to run
-    f
+    node index.js
+    
   ## Application Functionality Demo
-  [Demo link](f)
+  
+  YouTube video:  https://youtu.be/2bQhAYlHPg4
