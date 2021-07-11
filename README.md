@@ -1,3 +1,9 @@
+## Links:
+Git repo: https://github.com/Gopika2514/readme-generator
+
+Git site:https://gopika2514.github.io/readme-generator/
+
+YouTube video:  https://youtu.be/2bQhAYlHPg4
 
   # readme generator
   ![](https://img.shields.io/badge/License-MIT-red)
